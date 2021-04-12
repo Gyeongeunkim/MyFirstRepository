@@ -1,15 +1,4 @@
-# MyFirstRepository
-## MyFirstRepository
+# 201744005 김경은
+## 7주차 과제
 
-[네이버](https://naver.com)
-
-- 첫 번째
-  - 두 번째
-    - 세 번째
-
-1. **첫 번째**
-2. 두 번째
-3. *세 번째*
-
-* * *
-<img width="" height="" src="./png/KakaoTalk_20210321_204026178.jpg"></img>
+<img width="" height="" src="./png/201744005_김경은A_7주차.PNG"></img>
